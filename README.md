@@ -1,4 +1,5 @@
-# Machine_Learning_LR_Predicting-Stockmarket
+# Machine Learning -- Linear-Regrerssion
+Predicting the Stockmarket
 
 
 
