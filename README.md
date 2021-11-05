@@ -1,5 +1,6 @@
 # Machine Learning -- Linear-Regrerssion
 Predicting the Stockmarket
+**Aim:** The aim of this project is to import, clean this data for the prediction of stock prices. Here I will use data from the S&P500 Index and will use linear regressions to fit and predict prices based on a number of features/indicators
 
 
 
